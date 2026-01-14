@@ -69,6 +69,6 @@ Merci à l’**Université Privée de Fès (UPF)** pour son appui constant, sa v
 
 ## 📬 Contact
 
-**Ali Bouziane**  
-📧 bouziane_ali@upf.ac.ma  
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-bouziane/)
+**Ayoub Elabbadi**  
+📧 elabbadi-ayo@upf.ac.ma  
+🔗 [LinkedIn](https://www.linkedin.com/in/elabbadi-ayoub/)
