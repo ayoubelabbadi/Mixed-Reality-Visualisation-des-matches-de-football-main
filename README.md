@@ -18,7 +18,6 @@ Nous sommes fiers de présenter **notre projet XR immersif dédié aux fans de f
 <img src="poster.jpg" alt="Poster" width="300"/>
 
 ### Équipe projet lors du concours
-<img src="equipe.jfif" alt="Équipe" width="300"/>
 <img src="photo.jfif" alt="Photo équipe" width="300"/>
 
 ---
